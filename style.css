@@ -1,4 +1,27 @@
 .heading{
     color: red;
     font-size: 50px;
+    text-align: center;
+}
+.sandy{
+    width:fit-content;
+    margin:0 auto;
+}
+.beach{
+    height: 50vh;
+    width: 45vw;
+    object-fit: contain;
+}
+.link{
+    padding: 10px;
+    background-color: aliceblue;
+    width: fit-content;
+    margin:0 auto;
+}
+a{
+    text-decoration: none;
+
+}
+.link:hover{
+    background-color: plum;
 }
